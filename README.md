@@ -142,3 +142,6 @@ py -3.11 -m venv .venv
 python -m pip install -U pip setuptools wheel
 python -m pip install -r requirements.txt
 
+
+Dataset:
+https://universe.roboflow.com/abbos-aliboev-goau0/disabled-person-lz3bf
